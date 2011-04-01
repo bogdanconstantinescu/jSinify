@@ -5,3 +5,4 @@ jSinify runs on a loop and at random times make a screenshot and draws on it, wh
 
 # Thanks
 - Alex Ghiu for the help and suggestions :)
+
